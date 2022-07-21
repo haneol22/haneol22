@@ -12,12 +12,14 @@
       </tr>
       <tr align="center">
         <th>사용언어</th>
-        <td>사용하는 언어는 자바입니다. 자바로 백준 같은 프로그래밍 문제 사이트에서 문제들을 해결해봤습니다.</td>
+        <td>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</td>
       </tr>
       <tr align="center">
-        <td colspan="2"></td>
+        <td colspan="2">사용하는 언어는 자바입니다. 자바로 백준 같은 프로그래밍 문제 사이트에서 문제들을 해결해봤습니다.</td>
       </tr>
-    </table>  
+    </table>
+      
+      
   
 
   
