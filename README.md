@@ -1,7 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jung%20Han%20Eol&fontSize=90)
-  
+</div>  
+
 #:grinning: 나의 소개
 
   <table align="center">
@@ -26,7 +27,6 @@
         <th>
         <td></a>
       </tr>
-    
   
   
 # 사용 가능한 것
@@ -35,7 +35,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)    
   
-</div>
+
+
+
+
 
 
 
